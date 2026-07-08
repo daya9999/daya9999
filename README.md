@@ -16,6 +16,11 @@ Tech Stack
 Current Focus
 Building AI-powered Java applications
 
-Projects
-• Enterprise AI Document Search
-• AI Workflow Automation
+📌 Pinned Repositories
+
+⭐ Enterprise AI Document Search (RAG)
+⭐ AI Workflow Automation Platform
+⭐ Spring Boot Kafka Notifications
+⭐ JWT Authentication Service
+⭐ React Admin Dashboard
+⭐ Portfolio Website
